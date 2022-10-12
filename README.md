@@ -14,5 +14,5 @@ Hi , In this project i am trying to get fimilare with Bluetooth API who give you
 
 ## Screenshots
 
-![App Screenshot](https://github.com/HassanDev13/android-bluetooth/blob/main/image.png?raw=true)
+![App Screenshot](https://github.com/HassanDev13/android-bluetooth/blob/main/app/Bluethot%20API%20Android.png?raw=true)
 
