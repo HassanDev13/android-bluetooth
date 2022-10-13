@@ -1,5 +1,5 @@
 
-I build this simple project for practice purposes, be free to use the source code whatever you want. 
+I built this simple project for practice purposes, be free to use the source code whatever you want. 
 
 ## Bluetooth, In simple Words : 
 
