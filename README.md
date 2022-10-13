@@ -1,7 +1,7 @@
 
-## Bluetooth, In simple Words : 
-
 I build this simple project for practice purposes, be free to use the source code whatever you want. 
+
+## Bluetooth, In simple Words : 
 
 Bluetooth allows a device to wirelessly exchange data with other Bluetooth devices. 
   
