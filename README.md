@@ -59,7 +59,7 @@ private val pairedDevicesList = mutableListOf<BluetoothDevice>()
     }
 ```
 
-getPairedDevices(bluetoothAdapter: BluetoothAdapter?) : function here job to get all available device ready for pairing process
+getPairedDevices(bluetoothAdapter: BluetoothAdapter?) : function, her job is to get all available devices ready for the pairing process
 
 
 ## Contributing
