@@ -58,8 +58,7 @@ private val pairedDevicesList = mutableListOf<BluetoothDevice>()
         pairedDevicesEvent.send(DataState.Success(pairedDevicesList))
     }
 ```
-
-getPairedDevices(bluetoothAdapter: BluetoothAdapter?) : function, her job is to get all available devices ready for the pairing process
+Function `getPairedDevices(bluetoothAdapter: BluetoothAdapter?)` her job is to get all available devices ready for the pairing process
 
 
 ## Contributing
