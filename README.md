@@ -31,7 +31,7 @@ When Pairing Process has been done between two or more devices, they can reconne
 
 
 
-## Some Code to Share :
+## Randome Code To Share :
 
 ```kotlin
 private val pairedDevicesList = mutableListOf<BluetoothDevice>()
